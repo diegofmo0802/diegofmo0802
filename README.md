@@ -24,7 +24,7 @@ colaborar en algún momento.<br/>
 <table>
   <tr>
     <td>
-      <img width="320px" src="https://diegofmo0802.github.io/source/icon/[Saml] - SM - 640.png">
+      <img width="320px" src="https://mysaml.com/Logo">
     </td>
     <td>
       <table>
